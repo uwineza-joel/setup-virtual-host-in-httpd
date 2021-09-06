@@ -18,6 +18,7 @@ Grant permission
 Create Demo Pages for Each Virtual Host
 Write your index demopage for test
 > nano /var/www/example.com/public_html/index.html
+
 make this sample html
  <html>
   <head>
