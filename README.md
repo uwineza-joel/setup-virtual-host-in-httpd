@@ -45,11 +45,13 @@ Creating your first host example.com
 inside this conf file write-out this: 
 
 <VirtualHost *:80>
+
     ServerName www.example.com
     ServerAlias example.com
     DocumentRoot /var/www/example.com/public_html
     ErrorLog /var/www/example.com/error.log
     CustomLog /var/www/example.com/requests.log combined
+    
 </VirtualHost>
 
 ##### do it again to the example2.com
