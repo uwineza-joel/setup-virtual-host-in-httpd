@@ -45,7 +45,6 @@ Creating your first host example.com
 inside this conf file write-out this: 
 
 <VirtualHost *:80>
-
     ServerName www.example.com
     ServerAlias example.com
     DocumentRoot /var/www/example.com/public_html
