@@ -19,14 +19,14 @@ Create Demo Pages for Each Virtual Host
 Write your index demopage for test
 > nano /var/www/example.com/public_html/index.html
 
-<html>
+ [<html>
   <head>
     <title>Welcome to Example.com!</title>
   </head>
   <body>
     <h1>Success! The example.com virtual host is working!</h1>
   </body>
-</html>
+</html>]
 
 ##### Do this again for example2.com public_html
 
